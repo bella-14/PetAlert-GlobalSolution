@@ -48,8 +48,7 @@ Desenvolver a proposta de uma plataforma digital colaborativa que facilite a div
 ## Objetivos de Desenvolvimento Sustentável
 
 - ODS 11 — Cidades e comunidades sustentáveis;
-- ODS 15 — Vida terrestre;
-- ODS 17 — Parcerias e meios de implementação.
+- ODS 3 - Saúde e bem-estar
 
 ## Estrutura da documentação
 
